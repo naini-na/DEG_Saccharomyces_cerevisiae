@@ -67,12 +67,5 @@ Accession Number: [GSE218764]
 
 ---
 
-## 👩‍🔬 Author
-
-Nur Aini    
-Year: 2025
-
----
-
 ## 📄 License
 This project is intended for academic and educational purposes.
