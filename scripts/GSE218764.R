@@ -1,4 +1,4 @@
-#Modul: Analisis Ekspresi Gen Pengaruh Media Hidrolisat Terhadap Fermentasi
+#Analisis Ekspresi Gen Pengaruh Media Hidrolisat Terhadap Fermentasi
 #Saccharomyces cerevisiae
 
 #Dataset: GSE218764 (sugar vs lignocellulosic hydrolysate)  
